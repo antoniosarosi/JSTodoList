@@ -9,3 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   view.render();
 });
+
+// Video
+
+// new funcs
