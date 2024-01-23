@@ -10,4 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
   view.render();
 });
 
-// Video pull request
+// Video
+
+// new funcs
